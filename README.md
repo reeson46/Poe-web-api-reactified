@@ -14,6 +14,6 @@ This is a small project, where I'm displaying my in-game characters, equipment, 
 * React/React-redux
 * Html
 * CSS
-* Javascript/Jquery
+* Javascript
 
 ### Live site
