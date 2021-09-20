@@ -5,8 +5,8 @@ This is a small project, where I'm displaying my in-game characters, equipment, 
 
 ### How to run
 
-* Build app, `cd app` and then `docker build -t planner-app .` 
-* Build nginx image `docker build -t planner-nginx`
+* Build app, `cd app` and then `docker build -t poe-app .` 
+* Build nginx image `docker build -t poe-nginx`
 
 ### Technologies
 * Python
