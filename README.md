@@ -17,3 +17,4 @@ This is a small project, where I'm displaying my in-game characters, equipment, 
 * Javascript
 
 ### Live site
+https://poe.lukaloncaric.com/
